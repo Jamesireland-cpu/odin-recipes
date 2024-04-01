@@ -1,0 +1,1 @@
+This is a project to demonstrate basic skills in HTML in the form of a recipe website. The skills I will have demonstrated one I've completed this are creating an index page, and linking to recipes from the index.
